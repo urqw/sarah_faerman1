@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>9A0A196BFFC7B01B53BE9D42B5B83491</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Приключения Сары Фаерман 1: Мрачная тайна Катакомб Мрака</title>
+			<author>Юрий Павленко (Goraph)</author>
+			<language>ru</language>
+			<firstpublished>2009-09-08</firstpublished>
+			<genre>Фэнтези</genre>
+			<group>URQ</group>
+			<description>На многие мили простирались под Чёрным Городом древние катакомбы. Древнее зло водилось в них, выходя наружу лишь ночью, и повергая в ужас всех обитателей мегаполиса. За ужас и зло исходящее из них, катакомбы назвали Катакомбами Мрака. И никто не мог остановить террор, в который повергли Город ужасные твари из катакомб и их хозяин, вампир Арман.</description>
+			<series>Приключения Сары Фаерман</series>
+			<seriesnumber>1</seriesnumber>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#sarah_faerman1</url>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-25</originated>
+		</colophon>
+	</story>
+</ifindex>
